@@ -2,7 +2,7 @@
 
 
 
-![image-20220803125001480](./.imgs/image-20220803125001480.png)
+
 
 > 修改来自: https://github.com/liangjingkanji/DrakeTyporaTheme
 >
@@ -15,6 +15,16 @@
 
 
 ## 主题预览
+
+### 白色模式
+
+![image-20220825110654228](https://gitee.com/ponyjie/mySou/raw/master/2022/08/upgit_20220825_1661397124.png)
+
+![image-20220825110901377](https://gitee.com/ponyjie/mySou/raw/master/2022/08/upgit_20220825_1661397130.png)
+
+### 深色模式
+
+![image-20220825110953954](https://gitee.com/ponyjie/mySou/raw/master/2022/08/upgit_20220825_1661397136.png)
 
 
 
